@@ -8,3 +8,6 @@ split csv based on certain key, files would be saved under `\splits` folder.
 ```bash
 python split.py "input file" "[optional] output path"
 ```
+
+## spells
+Check [spell.md](spell.md) for more information.
