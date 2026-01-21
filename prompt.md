@@ -1,5 +1,5 @@
 # 咒語彙整
-整理各種幫助 AI 閱讀pdf、整理數據的咒語（spell）。
+整理各種幫助 AI 閱讀pdf、整理數據的咒語（prompt）。
 
 ## For ChatGPT
 ```md
